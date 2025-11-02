@@ -17,15 +17,6 @@
   line-height: 52px;
 }
 
-.form__input {
-  display: block;
-  width: 100%;
-  box-sizing: border-box;
-  padding: 15px 20px;
-  margin: 8px 0 32px;
-  border: 1px solid #838383;
-}
-
 .reservation__form {
   margin: 0 auto;
 }

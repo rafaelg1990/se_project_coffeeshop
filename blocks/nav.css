@@ -24,8 +24,10 @@
   font-size: 16px;
   line-height: 20px;
   color: black;
+  transition: opacity 200ms ease;
 }
 
 .nav__link:hover {
   color: #2f80ed;
+  opacity: 0.5;
 }

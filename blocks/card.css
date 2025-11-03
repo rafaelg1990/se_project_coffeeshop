@@ -2,11 +2,6 @@
   width: 540px;
 }
 
-.card__list-item {
-  list-style-type: none;
-  display: flex;
-}
-
 .card__list {
   padding: 0;
   margin: 0;
@@ -17,7 +12,7 @@
 
 .card__title {
   margin: 0 0 32px;
-  font-family: "Inter";
+  font-family: "Inter", arial, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
@@ -31,6 +26,8 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
+  list-style-type: none;
+  display: flex;
 }
 
 .card__list-divider {

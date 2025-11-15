@@ -14,3 +14,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 A great idea will be putting a small coffee cups as the nav link buttons and also having pictures of the food and drinks on the menu. Another great idea will be allowing people to click on the beverage products and list the ingredients that goes into th drinks and or calories thats in the food.
+
+Live web page:
+https://rafaelg1990.github.io/se_project_coffeeshop/
